@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Stephen  Purdue</h1>
 
-# 💫 About Me:
+## 💫 About Me:
 I'm a third year game development student at University of Winchester, currently learning Python and React.js.
 
 Check out my [coding portfolio!]()
@@ -9,7 +9,7 @@ Check out my [coding portfolio!]()
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephenpurdue) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 Languages: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
