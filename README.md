@@ -1,4 +1,4 @@
-<h1 align="left">Hey👋</h1>
+<h2 align="left">Hey👋</h2>
 
 I'm Stephen, a Game Developer student based in the UK.
 
