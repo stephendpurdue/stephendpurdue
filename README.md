@@ -9,7 +9,7 @@ I'm Stephen, a Game Developer student based in the UK.
 
 I design and build cool apps and mini-projects.
 
-I'm proficient in Python, though I'm learning JavaScript and React.
+I'm proficient in Python, though I'm hoping to pursue ML & AI.
 
 <h3>Fun Facts:</h3>
 <ol>
