@@ -5,11 +5,11 @@
 </picture>
 </h2>
 
-I'm Stephen, a Game Developer student based in the UK.
+I'm Stephen, a Game Development student based in the UK.
 
 I design and build cool apps and mini-projects.
 
-I'm proficient in Python, and I'm hoping to pursue a career ML & AI.
+I'm proficient in Python, and I plan to pursue a career in ML & AI.
 
 <h3>Fun Facts:</h3>
 <ol>
