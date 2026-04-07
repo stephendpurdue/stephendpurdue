@@ -11,10 +11,6 @@
 
 - Starting MSc in AI at RHUL in September.
 
-<h3>Fun Facts:</h3>
-<ol>
-  <li>I love to Snowboard</li>
-  <li>I've been to Tomorrowland 4 times!</li>
-</ol>
+Snowboarder. Tomorrowland regular.
 
 
