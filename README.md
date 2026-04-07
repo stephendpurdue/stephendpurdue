@@ -5,9 +5,11 @@
 </picture>
 </h2>
 
+**Game Development Student | AI & ML**
+
 - I'm Stephen, a Game Development student based in the UK.
 
-- I'm currently learning Go.
+- I'm currently going deeper into Python before my MSc.
 
 - I'm proficient in Python, and I plan to pursue a career in ML & AI.
 
