@@ -5,18 +5,15 @@
 </picture>
 </h2>
 
-**Game Development Student | AI & ML**
+**Final-year Game Developer Student shipping AI/ML projects.**
 
 - I'm Stephen, a Game Development student based in the UK.
 
-- I'm currently going deeper into Python before my MSc.
-
-- I'm proficient in Python, and I plan to pursue a career in ML & AI.
+- Starting MSc in AI at RHUL in September.
 
 <h3>Fun Facts:</h3>
 <ol>
   <li>I love to Snowboard</li>
-  <li>I have a cat</li>
   <li>I've been to Tomorrowland 4 times!</li>
 </ol>
 
