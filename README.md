@@ -5,7 +5,7 @@
 </picture>
 </h2>
 
-**Final-year Game Developer Student shipping AI/ML projects.**
+**Final-year Game Development Student shipping AI/ML projects.**
 
 - I'm Stephen, a Game Development student based in the UK.
 
