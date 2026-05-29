@@ -5,9 +5,9 @@
 </picture>
 </h2>
 
-**Final-year Game Development Student shipping AI/ML projects.**
+**Game Development Graduate shipping AI/ML projects.**
 
-- I'm Stephen, a Game Development student based in the UK.
+- I'm Stephen, I've just graduated a Game Development BSc.
 
 - Starting MSc in AI at RHUL in September.
 
