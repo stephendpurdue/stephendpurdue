@@ -11,7 +11,7 @@
 
 - Starting MSc in AI at RHUL in September.
 
-Snowboarder. Tomorrowland regular.
+I love snowboarding, and attend Tomorrowland at least twice every year.
 
 **Currently Learning / Reading**
 
