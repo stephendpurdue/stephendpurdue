@@ -5,12 +5,18 @@
 </picture>
 </h2>
 
-**Game Development Graduate shipping AI/ML projects.**
+**I'm Stephen, a Game Development Graduate**
 
-- I'm Stephen, I've just graduated a Game Development BSc.
+- I've just graduated a BSc in Game Development.
 
 - Starting MSc in AI at RHUL in September.
 
 Snowboarder. Tomorrowland regular.
+
+### Currently Learning / Reading
+
+- Python Crash Course
+- Operating Systems: Three Easy Pieces
+
 
 
