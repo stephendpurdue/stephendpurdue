@@ -13,7 +13,7 @@
 
 Snowboarder. Tomorrowland regular.
 
-### Currently Learning / Reading
+**Currently Learning / Reading**
 
 - Python Crash Course
 - Operating Systems: Three Easy Pieces
