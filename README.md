@@ -15,7 +15,7 @@ I love snowboarding, and attend Tomorrowland at least twice every year.
 
 **Currently Learning / Reading**
 
-- Python Crash Course
+- Introduction to Statistical Learning
 - Operating Systems: Three Easy Pieces
 
 
