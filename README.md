@@ -15,7 +15,7 @@ I love snowboarding, and attend Tomorrowland at least twice every year.
 
 **Currently Learning / Reading**
 
-- Introduction to Statistical Learning
+- Think and Grow Rich
 - Operating Systems: Three Easy Pieces
 
 
