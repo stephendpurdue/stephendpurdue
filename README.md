@@ -5,18 +5,17 @@
 </picture>
 </h2>
 
-**I'm Stephen, a Game Development Graduate**
+I'm Stephen, an MSc AI student at Royal Holloway, University of London.<br>
+Recently graduated with a BSc in Game Development.<br>
+I love snowboarding and attend Tomorrowland Winter & Summer every year.<br>
 
-- I've just graduated a BSc in Game Development.
+## Interests
+- Machine Learning
+- Python
+- Procedural Generation Systems
 
-- Starting MSc in AI at RHUL in September.
-
-I love snowboarding, and attend Tomorrowland at least twice every year.
-
-**Currently Learning / Reading**
-
-- Think and Grow Rich
+## Currently Learning / Reading
 - Operating Systems: Three Easy Pieces
-
+- Think and Grow Rich
 
 
