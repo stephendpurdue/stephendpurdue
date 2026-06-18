@@ -16,6 +16,6 @@ I love snowboarding and attend Tomorrowland Winter & Summer every year.<br>
 
 ## Currently Learning / Reading
 - Operating Systems: Three Easy Pieces
-- Think and Grow Rich
+- Foundations of Machine Learning
 
 
