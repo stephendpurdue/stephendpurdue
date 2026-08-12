@@ -6,8 +6,8 @@
 </h2>
 
 I'm Stephen, an MSc AI student at Royal Holloway, University of London.<br>
-Recently graduated with a BSc in Game Development.<br>
-I love snowboarding and attend Tomorrowland Winter & Summer every year.<br>
+I've recently graduated with a BSc in Game Development.<br>
+I pretty good snowboarder too! <br>
 
 ## Interests
 - Machine Learning
