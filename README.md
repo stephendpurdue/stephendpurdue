@@ -16,6 +16,6 @@ I pretty good snowboarder too! <br>
 
 ## Currently Learning / Reading
 - Operating Systems: Three Easy Pieces
-- Fluent Python
+- The Odyssey
 
 
