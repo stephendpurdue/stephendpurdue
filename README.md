@@ -7,14 +7,15 @@
 
 I'm Stephen, an MSc AI student at Royal Holloway, University of London.<br>
 I've recently graduated with a BSc in Game Development.<br>
-I pretty good snowboarder too! <br>
+I'm also a pretty good snowboarder!<br>
 
 ## Interests
 - Machine Learning
 - Python
-- Procedural Generation Systems
+- Cloud Computing
 
 ## Currently Learning / Reading
+- System Design & AWS
 - Operating Systems: Three Easy Pieces
 - The Odyssey
 
