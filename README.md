@@ -17,6 +17,6 @@ I'm also a pretty good snowboarder!<br>
 ## Currently Learning / Reading
 - System Design & AWS
 - Operating Systems: Three Easy Pieces
-- The Odyssey
+- Atomic Habits
 
 
