@@ -5,7 +5,8 @@
 </picture>
 </h2>
 
-I'm Stephen, a Software Engineer and Master's student at Royal Holloway, University of London, studying Artificial Intelligence and Machine Learning Systems<br>
+I'm Stephen, a Software Engineer and Master's student at Royal Holloway, University of London, studying Artificial Intelligence and Machine Learning Systems.<br>
+
 I'm also a pretty good snowboarder!<br>
 
 🧠 Interests
