@@ -5,15 +5,15 @@
 </picture>
 </h2>
 
-I'm Stephen, a software engineer and MSc AI student at Royal Holloway, University of London.<br>
+I'm Stephen, a Software Engineer and Master's student at Royal Holloway, University of London, studying Artificial Intelligence and Machine Learning Systems<br>
 I'm also a pretty good snowboarder!<br>
 
-## Interests
-- Machine Learning
+🧠 Interests
+- Machine Learning Systems
 - Inference
 - Cloud Computing
 
-## Currently Learning / Reading
+🛠️ Currently Learning / Reading
 - Designing Data Intensive Applications
 - Operating Systems: Three Easy Pieces
 - Inside the Machine
