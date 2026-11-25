@@ -5,18 +5,17 @@
 </picture>
 </h2>
 
-I'm Stephen, an MSc AI student at Royal Holloway, University of London.<br>
-I've recently graduated with a BSc in Game Development.<br>
+I'm Stephen, a software engineer and MSc AI student at Royal Holloway, University of London.<br>
 I'm also a pretty good snowboarder!<br>
 
 ## Interests
 - Machine Learning
-- Python
+- Inference
 - Cloud Computing
 
 ## Currently Learning / Reading
-- System Design & AWS
+- Designing Data Intensive Applications
 - Operating Systems: Three Easy Pieces
-- Atomic Habits
+- Inside the Machine
 
 
